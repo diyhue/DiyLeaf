@@ -14,7 +14,7 @@ Triangle lights similar to NanoLeaf
 1 x PCB  
 
 ### Panel (1 pcs)  
-1  x Attiny85  
+1  x ATTINY85-20SU
 2  x 100nf 0603 capacitor  
 1  x 1uF 0805 capacitor  
 18 x WS2812 3535 leds (Pay attention, regular WS2812 leds come in 5050 package)  
