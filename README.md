@@ -9,7 +9,7 @@ Triangle lights similar to NanoLeaf
 2 x Push buttons KEY-6.0*6.0  
 8 x [10K 0805 resistors](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-0805W8J0103T5E_C25612.html)  
 2 x [BSS138 transistors](https://lcsc.com/product-detail/MOSFET_Nexperia_BSS138P-215_Nexperia-BSS138P-215_C75547.html)  
-1 x [1uF 0805 capacitor](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805KKX5R6BB105_C408907.html)
+1 x [1uF 0805 capacitor](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805KKX5R6BB105_C408907.html)  
 2 x [47uF 1206 capacitor](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL31A476MPHNNNE_47uF-476-20-10V_C96123.html)  
 1 x [PCB](https://github.com/diyhue/DiyLeaf/blob/master/PCB's/Gerber_MAIN_BOARD__20191107225850.zip)  
 
